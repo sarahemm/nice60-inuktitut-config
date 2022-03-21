@@ -1,3 +1,3 @@
-# nice60-zmk-config
+# nice60-inuktitut-config
 
-Fork this repository and click on the "Actions" tab to enable custom firmware builds. Edit the `.conf` and `.keymap` files to customize.
+Configuration for my qaniujaaqpait nice!60 keyboard.
